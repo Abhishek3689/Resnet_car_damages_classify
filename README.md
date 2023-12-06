@@ -32,7 +32,7 @@ The Dataset has 4 files
   * 3:tire flat
   * 4:dent
   * 5:glass shatter
-  * 6:lamp broken
+  * 6:lamp broken.
   
 In the test datset you are only provided with images, you need to predict the type of damage present in the test set
 
