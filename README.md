@@ -1,7 +1,6 @@
 # Resnet_car_damages_classification
 #### The link for dataset is available in kaggle
 
-
 https://www.kaggle.com/datasets/abhisheknishad8988/car-damages/data
 
 In the insurance industry processing claims for vehicle damage is a common and most essential task. With the advancement in AI and Computer Vision the users can settle the claims online instantly by uploading the image of damage car with the insurance company.
